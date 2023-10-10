@@ -1,16 +1,45 @@
-### Hi there 👋
+## Olá! Eu sou a Aline Uemura 
+### Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**lineeiko/lineeiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div style="display: inline_block"><br>
+    <img align="right" alt="Line-pic" height="400"style="border-radius:60px;" src="https://user-images.githubusercontent.com/104697385/169101953-d8c90470-1ed4-4b24-9f19-a19f09a5821a.png">
+</div>
 
-Here are some ideas to get you started:
+- 🔭 Formada em Tecnologia em Análise e Desenvolvimento de Sistemas
+- 🌱 Aprendendo Desenvolvimento Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align "center">
+  <a href="https://github.com/lineeiko">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lineeiko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lineeiko&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+
+### Estou aprendendo:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"width="40" height="40"/>  
+</div>
+
+##
+ 
+### Contatos:
+<div>
+ <a href = "mailto:lineeiko@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+ <a href="https://www.linkedin.com/in/aline-uemura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
+</div>
+
+##
+
+<div align="center">
+       
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lineeiko/lineeiko/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lineeiko/lineeiko/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lineeiko/lineeiko/output/github-contribution-grid-snake.svg">
+</picture>
+      
+</div>
