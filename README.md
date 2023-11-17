@@ -23,12 +23,6 @@
  <a href="https://www.linkedin.com/in/aline-uemura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<div>
-  <a href="https://github.com/lineeiko">
-  <img height="180em" src="https://github-readme-stats-aline-eikos-projects.vercel.app//api?username=lineeiko&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-aline-eikos-projects.vercel.app//api/top-langs/?username=lineeiko&layout=compact&langs_count=7&theme=midnight-purple&hide=shell"/>
-</div>
-
 <div align="center">       
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lineeiko/lineeiko/output/github-contribution-grid-snake-dark.svg">
